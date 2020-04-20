@@ -1,0 +1,10 @@
+.main-container{
+    display: flex;
+}
+.little-container{
+   border: 1px solid red;
+    width: 70%;
+}
+.small-container{
+    margin-left: 35px;
+}

@@ -1,0 +1,28 @@
+.first-container{
+    border-bottom: 2px solid lightgray;
+    margin-right: 20px;
+}
+.middle-container{
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.middle-container button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.picture-container img{
+    height: 225px;
+    width: 225px;
+    margin-bottom: 10px;
+}
+.picture-container{
+    margin-bottom: 100px;
+}
+.head-container{
+    display: flex;
+    margin-bottom: 10px;
+}
